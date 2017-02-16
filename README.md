@@ -2,14 +2,18 @@ Its a websocket client library for Android
 
 ## Version 1.0.0
 
-## Integration
-
+## Integration 
 The lib is available on jitpack, you can find it with 
 
 ```
 dependencies {
     compile 'com.github.aardouin:socketConnections:1.0.0'
 }
+```
+
+The lib uses dependency with JavaSocket, please make sure you add the following repo in AllProject repositories
+```
+    maven { url 'http://clojars.org/repo' }
 ```
 
 **API Overview**

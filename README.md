@@ -4,11 +4,11 @@ Its a websocket client library for Android
 
 ## Integration
 
-The lib is available on jcenter, you can find it with 
+The lib is available on jitpack, you can find it with 
 
 ```
 dependencies {
-    compile 'com.nihaskalam.android:socket-connections:1.0.0'
+    compile 'com.github.aardouin:socketConnections:1.0.0'
 }
 ```
 
